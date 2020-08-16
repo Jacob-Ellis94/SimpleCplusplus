@@ -1,0 +1,6 @@
+Username is : testusername
+Age is : 99
+Height is: 199cm
+Weight is: 99Kg
+
+Your calculated BMR is : 1743.75 calories per day (without accounting for any exercise)
